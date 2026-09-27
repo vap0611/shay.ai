@@ -134,7 +134,7 @@ SVI (base)        = round(0.5·W + 0.5·M)   # one severe dimension cannot be di
 
 ```bash
 # Clone the repository
-git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>.git
+https://github.com/vap0611/shay.ai.git
 
 # Navigate into the project directory
 cd sahay-ai
@@ -271,4 +271,4 @@ SAHAY-AI is a **decision-support prototype**, not a diagnostic tool and not a su
 
 ## License
 
-*(Add your chosen license here — e.g., MIT, Apache 2.0 — and include a `LICENSE` file at the project root.)*
+This is not a complete project just a demostrating prototype 
