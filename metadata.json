@@ -1,0 +1,7 @@
+{
+  "name": "SAHAY-AI v2 - Psychosocial Vulnerability Layer",
+  "description": "Real-time, explainable, consent-based psychosocial vulnerability assessment & live decision support for atrocity helplines (14566), portals, and counsellors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
